@@ -1,2 +1,1 @@
-# dotnet-framework-mvc-demo
-dotnet framework mvc demo
+﻿Documantation at  [github](https://github.com/ProvisionPay/dotnet-deeplink-sdk).
